@@ -27,8 +27,7 @@ I enjoy automating processes, optimizing cloud deployments, and continuously lea
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/prathmesh-amale-3ba238312/)
 - [Certifications](https://drive.google.com/drive/folders/14mNtmLjlSg7qnljLXkJiUiluKZsxCvtU)
-- [email](prathmeshamale646@gmail.com)
-- [mobile](+919022874211)
+
 
 Thanks for visiting my profile! 😊
 
