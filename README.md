@@ -19,7 +19,7 @@ I enjoy automating processes, optimizing cloud deployments, and continuously lea
  - **Live S3 Project**  
   *Description:* Created a webpage where I have uploaded images less than 1MB in size
    and store in S3 and also record created in RDS. In custom VPC.
-  *[Repository Link](https://github.com/prathmesh2102003/AWS-3TA.git)*  
+  *[Repository Link](#)*  
 
 ## 🌱 Currently Learning
 - Advanced Kubernetes techniques for managing large-scale deployments.
