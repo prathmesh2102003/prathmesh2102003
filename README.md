@@ -7,7 +7,8 @@ I enjoy automating processes, optimizing cloud deployments, and continuously lea
 - **Cloud Platform:** AWS
 - **DevOps Tools:** Docker
 - **Programming, Markup & Scripting:** Python | HTML | XML | Bash | Php
-- **Services:** EC2 | VPC | RDS | IAM | CloudWatch | SNS | CloudFront | S3 | lambda | CloudTrail | Lightsail 
+- **Services:** EC2 | VPC | RDS | IAM | CloudWatch | SNS | CloudFront | S3 | lambda | CloudTrail | Lightsail
+- **Databases:** MySQL | PostgreSQL
 
 ## 🚀 Projects
 - **Three Tier Architecture**  
