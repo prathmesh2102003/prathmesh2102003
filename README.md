@@ -1,34 +1,30 @@
 # Hello, I'm Prathmesh Amale! 👋
 
-I'm an aspiring Cloud and DevOps engineer with a passion for building scalable and resilient infrastructure. 
-I enjoy automating processes, optimizing cloud deployments, and continuously learning new technologies to stay ahead in the rapidly evolving tech landscape.
+I'm an aspiring Cloud and DevOps engineer passionate about building scalable and resilient infrastructures. I excel at automating processes, optimizing cloud deployments, and am continually acquiring new skills to stay ahead in the rapidly evolving tech landscape.
 
 ## 🔧 Technologies & Tools
-- **Cloud Platform:** AWS
-- **DevOps Tools:** Docker
-- **Programming, Markup & Scripting:** Python | HTML | XML | Bash | Php
-- **Services:** EC2 | VPC | RDS | IAM | CloudWatch | SNS | CloudFront | S3 | lambda | CloudTrail | Lightsail
-- **Databases:** MySQL | PostgreSQL
+- **Cloud Platforms:** AWS
+- **DevOps Tools:** Docker, Kubernetes, Jenkins, CI/CD, Ansible, Terraform
+- **Programming, Markup & Scripting:** Python, HTML, XML, Bash, PHP
+- **AWS Services:** EC2, VPC, RDS, IAM, CloudWatch, SNS, CloudFront, S3, Lambda, CloudTrail, Lightsail
+- **Databases:** MySQL, PostgreSQL
 
 ## 🚀 Projects
 - **Three Tier Architecture**  
-  *Description:* Created three tier architecture where launched 3 EC2 instances in different AZ’s ,
-  created 3 subnets in custom VPC ,
-  stored data in RDS and monitered and set alerts using CloudWatch and SNS.
+  *Description:* Implemented a robust three-tier architecture utilizing AWS. This included deploying 3 EC2 instances across different Availability Zones, establishing 3 subnets within a custom VPC, managing data with RDS, and monitoring with CloudWatch and SNS.  
   *[Repository Link](https://github.com/prathmesh2102003/AWS-3TA.git)*
- - **Live S3 Project**  
-  *Description:* Created a webpage where I have uploaded images less than 1MB in size
-   and store in S3 and also record created in RDS. In custom VPC.
-  *[Repository Link](#)*  
+- **Dynamic S3 Image Handler**  
+  *Description:* Developed a web application for managing image uploads under 1MB, integrating seamless storage with AWS S3 and data tracking via RDS within a custom VPC environment.  
+  *[Repository Link](https://github.com/prathmesh2102003/Dynamic-S3-Image-Handler.git)*  
 
 ## 🌱 Currently Learning
-- Advanced Kubernetes techniques for managing large-scale deployments.
-- AWS CloudFront | AWS DynamoDB | Elastic Beanstalk 
+- **DevOps Tools:** Enhancing skills in automation and orchestration using Ansible, Terraform, and Jenkins.
+- **Cloud Services:** Expanding knowledge in AWS services like Elastic Beanstalk and CloudFront for optimized application deployment and distribution.
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/prathmesh-amale-3ba238312/)
 - [Certifications](https://drive.google.com/drive/folders/14mNtmLjlSg7qnljLXkJiUiluKZsxCvtU)
 
+Thank you for visiting my profile! 😊
 
-Thanks for visiting my profile! 😊
 
