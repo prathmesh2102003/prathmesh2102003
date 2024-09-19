@@ -4,10 +4,13 @@ I'm an aspiring Cloud and DevOps engineer passionate about building scalable and
 
 ## 🔧 Technologies & Tools
 - **Cloud Platforms:** AWS
-- **DevOps Tools:** Docker, Kubernetes, Jenkins, CI/CD, Ansible, Terraform
+- **DevOps Tools:** Docker, Kubernetes, Jenkins, CI/CD, Ansible, Terraform, EKS, ECS(ECR)
 - **Programming, Markup & Scripting:** Python, HTML, XML, Bash, PHP
 - **AWS Services:** EC2, VPC, RDS, IAM, CloudWatch, SNS, CloudFront, S3, Lambda, CloudTrail, Lightsail
 - **Databases:** MySQL, PostgreSQL
+- **Webservers:** Nginx, Apache
+- **Systems:** Linux (Ubuntu, Amazon Linux), Windows Server
+- **Others:** Git, SSH, Linux, Networking, CroneJob
 
 ## 🚀 Projects
 - **Three Tier Architecture**  
@@ -16,7 +19,7 @@ I'm an aspiring Cloud and DevOps engineer passionate about building scalable and
 - **Dynamic S3 Image Handler**  
   *Description:* Developed a web application for managing image uploads under 1MB, integrating seamless storage with AWS S3 and data tracking via RDS within a custom VPC environment.  
   *[Repository Link](https://github.com/prathmesh2102003/Dynamic-S3-Image-Handler.git)*
-- **CodeStream Hub**  
+- **CloudNode CI/CD Pipeline**  
   *Description:* Implemented a scalable CI/CD pipeline using GitHub Actions for automated builds, testing, and deployment of a Node.js application. Utilized AWS ECS and ECR to containerize and orchestrate services, ensuring secure environment management with AWS Secrets. Improved deployment efficiency and reliability by streamlining cloud-based delivery.  
   *[Repository Link](https://github.com/prathmesh2102003/CI-CD_Pipeline_using_GitHub_Action.git)*
   
