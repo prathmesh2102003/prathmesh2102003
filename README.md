@@ -21,7 +21,7 @@ I'm an aspiring Cloud and DevOps engineer passionate about building scalable and
   *[Repository Link](https://github.com/prathmesh2102003/Dynamic_S3_Image_Handler.git)*
 - **CloudNode CI/CD Pipeline**  
   *Description:* Implemented a scalable CI/CD pipeline using GitHub Actions for automated builds, testing, and deployment of a Node.js application. Utilized AWS ECS and ECR to containerize and orchestrate services, ensuring secure environment management with AWS Secrets. Improved deployment efficiency and reliability by streamlining cloud-based delivery.  
-  *[Repository Link](https://github.com/prathmesh2102003/CI-CD_Pipeline_using_GitHub_Action.git)*
+  *[Repository Link](https://github.com/prathmesh2102003/CloudNode.git)*
   
 
 ## 🌱 Currently Learning
