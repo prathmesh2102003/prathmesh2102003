@@ -22,6 +22,9 @@ I'm an aspiring Cloud and DevOps engineer passionate about building scalable and
 - **CloudNode CI/CD Pipeline**  
   *Description:* Implemented a scalable CI/CD pipeline using GitHub Actions for automated builds, testing, and deployment of a Node.js application. Utilized AWS ECS and ECR to containerize and orchestrate services, ensuring secure environment management with AWS Secrets. Improved deployment efficiency and reliability by streamlining cloud-based delivery.  
   *[Repository Link](https://github.com/prathmesh2102003/CloudNode.git)*
+- **Ansible Web Application Deployment**  
+  *Description:* Developed an automated deployment solution for a static web application using Ansible, streamlining the setup process on remote servers. This project included defining inventory, creating playbooks for Nginx installation and configuration, and deploying static content. Enhanced scalability and modularity allowed for efficient management of multiple server deployments, with future enhancements planned for SSL support and CI/CD integration.  
+  *[Repository Link](https://github.com/prathmesh2102003/Swift_Ansible_Deployment.git)*  
   
 
 ## 🌱 Currently Learning
