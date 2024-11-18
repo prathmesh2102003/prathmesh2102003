@@ -4,13 +4,13 @@ I'm an aspiring Cloud and DevOps engineer passionate about building scalable and
 
 ## 🔧 Technologies & Tools
 - **Cloud Platforms:** AWS
-- **DevOps Tools:** Docker, Kubernetes, Jenkins, CI/CD, Ansible, Terraform, EKS, ECS(ECR)
+- **DevOps Tools:** Docker, Kubernetes, Jenkins, CI/CD, Ansible, Terraform, GitHub Actions, EKS, ECS, ECR
 - **Programming, Markup & Scripting:** Python, HTML, XML, Bash, PHP
 - **AWS Services:** EC2, VPC, RDS, IAM, CloudWatch, SNS, CloudFront, S3, Lambda, CloudTrail, Lightsail
 - **Databases:** MySQL, PostgreSQL
 - **Webservers:** Nginx, Apache
-- **Systems:** Linux (Ubuntu, Amazon Linux), Windows Server
-- **Others:** Git, SSH, Linux, Networking, CroneJob
+- **Systems:** Linux (Ubuntu, Amazon Linux, Redhat), Windows Server
+- **Others:** Git, SSH, Networking, CroneJob, Package management, Log management
 
 ## 🚀 Projects
 - **Three Tier Architecture**  
@@ -22,14 +22,19 @@ I'm an aspiring Cloud and DevOps engineer passionate about building scalable and
 - **CloudNode CI/CD Pipeline**  
   *Description:* Implemented a scalable CI/CD pipeline using GitHub Actions for automated builds, testing, and deployment of a Node.js application. Utilized AWS ECS and ECR to containerize and orchestrate services, ensuring secure environment management with AWS Secrets. Improved deployment efficiency and reliability by streamlining cloud-based delivery.  
   *[Repository Link](https://github.com/prathmesh2102003/CloudNode.git)*
-- **Ansible Web Application Deployment**  
+- **Swift Ansible Deployment**  
   *Description:* Developed an automated deployment solution for a static web application using Ansible, streamlining the setup process on remote servers. This project included defining inventory, creating playbooks for Nginx installation and configuration, and deploying static content. Enhanced scalability and modularity allowed for efficient management of multiple server deployments, with future enhancements planned for SSL support and CI/CD integration.  
-  *[Repository Link](https://github.com/prathmesh2102003/Swift_Ansible_Deployment.git)*  
+  *[Repository Link](https://github.com/prathmesh2102003/Swift_Ansible_Deployment.git)*
+- **Instagram Clone - Node.js App**  
+  *Description:* This is a simple web application built using Node.js, Express.js, and EJS templating. It mimics basic functionalities of Instagram, allowing users to register with a username and password, log in, and view a list of all registered users. The project built with HTML and CSS, and is designed to showcase fundamental concepts of user authentication and web development. You can run this app locally or deploy it using Docker.                                                                           
+  *[Repository Link](https://github.com/prathmesh2102003/Instagram_login_page.git)*   
   
 
 ## 🌱 Currently Learning
-- **DevOps Tools:** Enhancing skills in automation and orchestration using Ansible, Terraform, and Jenkins.
-- **Cloud Services:** Expanding knowledge in AWS services like Elastic Beanstalk and CloudFront for optimized application deployment and distribution.
+- **DevOps Tools**: Enhancing skills in automation and orchestration using **Ansible**, **Terraform**, and **Jenkins**.
+- **DevOps Tools**: Learning **Prometheus** and **Grafana** for monitoring and visualization.
+- **Cloud Technologies**: Deepening knowledge in AWS services like **Redshift**, **VPN**, **Glue**, and **Athena** for data management and analysis.
+
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/prathmesh-amale-3ba238312/)
