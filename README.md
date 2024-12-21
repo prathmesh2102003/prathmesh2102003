@@ -27,7 +27,10 @@ I'm an aspiring Cloud and DevOps engineer passionate about building scalable and
   *[Repository Link](https://github.com/prathmesh2102003/Swift_Ansible_Deployment.git)*
 - **Instagram Clone - Node.js App**  
   *Description:* This is a simple web application built using Node.js, Express.js, and EJS templating. It mimics basic functionalities of Instagram, allowing users to register with a username and password, log in, and view a list of all registered users. The project built with HTML and CSS, and is designed to showcase fundamental concepts of user authentication and web development. You can run this app locally or deploy it using Docker.                                                                           
-  *[Repository Link](https://github.com/prathmesh2102003/Instagram_login_page.git)*   
+  *[Repository Link](https://github.com/prathmesh2102003/Instagram_login_page.git)*
+- **Cloudcraft_static**  
+  *Description:* CloudCraft Static is a Terraform-based project designed to host a static website using AWS S3. It automates the provisioning of the necessary AWS infrastructure and uploads your website files, enabling you to deploy static websites seamlessly.                                                                           
+  *[Repository Link](https://github.com/prathmesh2102003/Cloudcraft_static.git)*    
   
 
 ## 🌱 Currently Learning
