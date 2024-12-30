@@ -30,7 +30,9 @@ I'm an aspiring Cloud and DevOps engineer passionate about building scalable and
   *[Repository Link](https://github.com/prathmesh2102003/Instagram_login_page.git)*
 - **Cloudcraft_static**  
   *Description:* CloudCraft Static is a Terraform-based project designed to host a static website using AWS S3. It automates the provisioning of the necessary AWS infrastructure and uploads your website files, enabling you to deploy static websites seamlessly.                                                                           
-  *[Repository Link](https://github.com/prathmesh2102003/Cloudcraft_static.git)*    
+  *[Repository Link](https://github.com/prathmesh2102003/Cloudcraft_static.git)*
+- **AWS-Terraform-WebServer-Setup**  
+  *Description:* This project leverages Terraform to automate the deployment of a secure and scalable AWS infrastructure, hosting a web server running NGINX. It includes the creation of a VPC, subnets, an internet gateway, a route table, and an EC2 instance with a public IP.                                                                            *[Repository Link](https://github.com/prathmesh2102003/AWS-Terraform-WebServer-Setup.git)*     
   
 
 ## 🌱 Currently Learning
