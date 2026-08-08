@@ -1,50 +1,18 @@
-# Hello, I'm Prathmesh Amale! 👋
-
-I'm an aspiring Cloud and DevOps engineer passionate about building scalable and resilient infrastructures. I excel at automating processes, optimizing cloud deployments, and am continually acquiring new skills to stay ahead in the rapidly evolving tech landscape.
-
-## 🔧 Technologies & Tools
-- **Cloud Platforms:** AWS
-- **DevOps Tools:** Docker, Kubernetes, Jenkins, CI/CD, Ansible, Terraform, GitHub Actions, EKS, ECS, ECR
-- **Programming, Markup & Scripting:** Python, HTML, XML, Bash, PHP
-- **AWS Services:** EC2, VPC, RDS, IAM, CloudWatch, SNS, CloudFront, S3, Lambda, CloudTrail, Lightsail
-- **Databases:** MySQL, PostgreSQL
-- **Webservers:** Nginx, Apache
-- **Systems:** Linux (Ubuntu, Amazon Linux, Redhat), Windows Server
-- **Others:** Git, SSH, Networking, CroneJob, Package management, Log management
-
-## 🚀 Projects
-- **Three Tier Architecture**  
-  *Description:* Implemented a robust three-tier architecture utilizing AWS. This included deploying 3 EC2 instances across different Availability Zones, establishing 3 subnets within a custom VPC, managing data with RDS, and monitoring with CloudWatch and SNS.  
-  *[Repository Link](https://github.com/prathmesh2102003/AWS-3TA.git)*
-- **Dynamic S3 Image Handler**  
-  *Description:* Developed a web application for managing image uploads under 1MB, integrating seamless storage with AWS S3 and data tracking via RDS within a custom VPC environment.  
-  *[Repository Link](https://github.com/prathmesh2102003/Dynamic_S3_Image_Handler.git)*
-- **CloudNode CI/CD Pipeline**  
-  *Description:* Implemented a scalable CI/CD pipeline using GitHub Actions for automated builds, testing, and deployment of a Node.js application. Utilized AWS ECS and ECR to containerize and orchestrate services, ensuring secure environment management with AWS Secrets. Improved deployment efficiency and reliability by streamlining cloud-based delivery.  
-  *[Repository Link](https://github.com/prathmesh2102003/CloudNode.git)*
-- **Swift Ansible Deployment**  
-  *Description:* Developed an automated deployment solution for a static web application using Ansible, streamlining the setup process on remote servers. This project included defining inventory, creating playbooks for Nginx installation and configuration, and deploying static content. Enhanced scalability and modularity allowed for efficient management of multiple server deployments, with future enhancements planned for SSL support and CI/CD integration.  
-  *[Repository Link](https://github.com/prathmesh2102003/Swift_Ansible_Deployment.git)*
-- **Instagram Clone - Node.js App**  
-  *Description:* This is a simple web application built using Node.js, Express.js, and EJS templating. It mimics basic functionalities of Instagram, allowing users to register with a username and password, log in, and view a list of all registered users. The project built with HTML and CSS, and is designed to showcase fundamental concepts of user authentication and web development. You can run this app locally or deploy it using Docker.                                                                           
-  *[Repository Link](https://github.com/prathmesh2102003/Instagram_login_page.git)*
-- **Cloudcraft_static**  
-  *Description:* CloudCraft Static is a Terraform-based project designed to host a static website using AWS S3. It automates the provisioning of the necessary AWS infrastructure and uploads your website files, enabling you to deploy static websites seamlessly.                                                                           
-  *[Repository Link](https://github.com/prathmesh2102003/Cloudcraft_static.git)*
-- **AWS-Terraform-WebServer-Setup**  
-  *Description:* This project leverages Terraform to automate the deployment of a secure and scalable AWS infrastructure, hosting a web server running NGINX. It includes the creation of a VPC, subnets, an internet gateway, a route table, and an EC2 instance with a public IP.                                                                           *[Repository Link](https://github.com/prathmesh2102003/AWS-Terraform-WebServer-Setup.git)*     
-  
-
-## 🌱 Currently Learning
-- **DevOps Tools**: Enhancing skills in automation and orchestration using **Ansible**, **Terraform**, and **Jenkins**.
-- **DevOps Tools**: Learning **Prometheus** and **Grafana** for monitoring and visualization.
-- **Cloud Technologies**: Deepening knowledge in AWS services like **Redshift**, **VPN**, **Glue**, and **Athena** for data management and analysis.
+# 💫 About Me:
+👨‍💻 About Me<br><br>- 🔭 I'm currently working as a **DevOps Engineer** at Offshore IT Mitra Pvt Ltd, building cloud-native infrastructure for a research platform project<br>- ☁️ I specialize in **AWS + GCP** multi-cloud architecture — from EKS cluster provisioning to cross-cloud HA VPN for AI workloads<br>- 🛠️ My daily stack: **Terraform · Kubernetes · GitLab CI/CD · ArgoCD · Docker · Ansible · Datadog**<br>- 🌐 Built a secure **AWS–GCP dual-tunnel HA VPN** achieving 99.9% uptime, enabling private LLM inference via AWS Bedrock with zero public internet exposure<br>- 📚 Completed **M.Sc. Computer Science** @ Savitribai Phule Pune University in June 2026 with CGPA: 8.20<br>- 🎯 Currently preparing for **HashiCorp Certified: Terraform Associate (003)** and **AWS SAA-C03**<br>- ⚡ I enjoy turning complex multi-region infrastructure problems into clean, reusable **Terraform modules**<br>- 📫 Reach me at: **prathmeshamale646@gmail.com**
 
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/prathmesh-amale-3ba238312/)
-- [Certifications](https://drive.google.com/drive/folders/14mNtmLjlSg7qnljLXkJiUiluKZsxCvtU)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathmesh-amale-3ba238312/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathmeshamale646@gmail.com) 
 
-Thank you for visiting my profile! 😊
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=prathmesh2102003&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=prathmesh2102003&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=prathmesh2102003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+[![](https://komarev.com/ghpvc/?username=prathmesh2102003&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
